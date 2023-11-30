@@ -3,10 +3,10 @@
 A collection of simple Go programs for learning and reference.
 
 ## Programs
-1. [Hello World](hello.go)
-2. [Addition of Two Numbers](add.go)
-3. [Factorial Calculation](factorial.go)
-4. [Simple Todo List](todolist.go)
+1. [Hello World](Hello.go)
+2. [Addition of Two Numbers](AdditionTwoNumbers.go)
+3. [Factorial Calculation](Factorial.go)
+4. [Simple Todo List](ToDoList.go)
 
 ## Usage
 
