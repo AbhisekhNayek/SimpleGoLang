@@ -7,7 +7,8 @@ A collection of simple Go programs for learning and reference.
 2. [Addition of Two Numbers](AdditionTwoNumbers.go)
 3. [Factorial Calculation](Factorial.go)
 4. [Simple Todo List](ToDoList.go)
-
+5. [Sum of Digits](SumOfDigits.go)
+6. [PrimeNumber](PrimeNumber.go)
 ## Usage
 
 1. Clone the repository:
