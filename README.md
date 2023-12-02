@@ -8,7 +8,9 @@ A collection of simple Go programs for learning and reference.
 3. [Factorial Calculation](Factorial.go)
 4. [Simple Todo List](ToDoList.go)
 5. [Sum of Digits](SumOfDigits.go)
-6. [PrimeNumber](PrimeNumber.go)
+6. [Prime Number](PrimeNumber.go)
+7. [Fibonacci Series](Fibonacci.go)
+8. [Linear Search](LinearSearch.go)
 ## Usage
 
 1. Clone the repository:
