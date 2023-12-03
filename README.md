@@ -11,6 +11,8 @@ A collection of simple Go programs for learning and reference.
 6. [Prime Number](PrimeNumber.go)
 7. [Fibonacci Series](Fibonacci.go)
 8. [Linear Search](LinearSearch.go)
+9. [Bubble Sort](BubbleSort.go)
+10. [Student Information System](StudentInfoSystem.go)
 ## Usage
 
 1. Clone the repository:
