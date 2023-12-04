@@ -13,6 +13,8 @@ A collection of simple Go programs for learning and reference.
 8. [Linear Search](LinearSearch.go)
 9. [Bubble Sort](BubbleSort.go)
 10. [Student Information System](StudentInfoSystem.go)
+11. [Sum and Average](SumAverage.go)
+12. [Basic Web Server](Server.go)
 ## Usage
 
 1. Clone the repository:
