@@ -17,6 +17,8 @@ A collection of simple Go programs for learning and reference.
 12. [Basic Web Server](Server.go)
 13. [Error Handling](ErrorHandling.go)
 14. [File Input Output](FileIO.go)
+15. [Concurrent Programming](ConcurrentProgramming.go)
+16. [Timer](Timer.go)
         
 ## Usage
 
