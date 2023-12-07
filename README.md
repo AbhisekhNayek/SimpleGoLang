@@ -19,6 +19,8 @@ A collection of simple Go programs for learning and reference.
 14. [File Input Output](FileIO.go)
 15. [Concurrent Programming](ConcurrentProgramming.go)
 16. [Timer](Timer.go)
+17. [Mutex Increment Counter](MutexIncrementCounter.go)
+18. [Prodecuer Consumer](ProdecuerConsumer.go)
         
 ## Usage
 
