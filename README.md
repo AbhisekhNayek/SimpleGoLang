@@ -23,6 +23,8 @@ A collection of simple Go programs for learning and reference.
 18. [Prodecuer Consumer](ProdecuerConsumer.go)
 19. [JSON Encoding and Decoding](JSONEncodingDecoding.go)
 20. [Command Line Arguments](CLA.go)
+21. [Goroutines With Statements](Goroutine.go)
+22. [Defer Statement](DeferStatement.go)
         
 ## Usage
 
