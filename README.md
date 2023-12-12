@@ -27,6 +27,8 @@ A collection of simple Go programs for learning and reference.
 22. [Defer Statement](DeferStatement.go)
 23. [TCP IP Server](TCP_Server.go)
 24. [TCP IP Client](TCP_Client.go)
+25. [Task Processing System](TaskProcessingSystem.go)
+26. [Fetch Data From HTTP](Https.go)
         
 ## Usage
 
